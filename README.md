@@ -1,4 +1,12 @@
 # blockChainhw4
 
-## What to do for part 2 (and why is my submodule folder locked)
-It's extra janky
+## Make sure that you have truffle, solc, and testrpc installed for everything
+How do you do that? Do one after Another
+
+```bash
+npm i -g solc
+
+npm i -g truffle
+
+npm install -g ethereumjs-testrpc
+```
