@@ -37,6 +37,13 @@ This goes from setting everything up to testing it
 ![seventh](/pics/test_2.png)
 ![eighth](/pics/test_3.png)
 
+You do not need to run the test command that Andy tells you to do because you can just run:
+```bash
+truffle test
+```
+and it will test it for you.
+
+
 5. Running testrpc and the test failing and passing
 ![ninth](/pics/test_6.png)
 ![tenth](/pics/test-wrong.png)
