@@ -39,13 +39,13 @@ $ [path/to/root_directory] testrpc
 ```
 ..* Click the getInstructors button to get that instructor's address
 ```bash
-"[your address]", 32, "Gary", "Simon"
+0x6260Ee188505D13b92ca32DB03dDee9DCCC29CDC
 ```
 ..* Place the instructor's address in getInstructor section and you will receive the following output
-![getInstructor output](/pics/struct_3)
+![getInstructor output](/pics/struct_3.png)
 
 ..* Press the countInstructors section to count the number of instructors. Your output should look like the following:
-![countInstructors output](/pics/struct4)
+![countInstructors output](/pics/struct4.png)
 
 The whole output looks like this:
-![whole output](/pics/whole)
+![whole output](/pics/whole.png)
