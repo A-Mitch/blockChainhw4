@@ -29,15 +29,15 @@ This will create files for you and you can follow the commands in the tutorial t
 This goes from setting everything up to testing it
 
 1. Setting it up and checking my folder
-![first](/pics/helloWorld1.png)
-![Second](/pics/helloWorld2.png)
+![first](/pics/helloWorld_1.png)
+![Second](/pics/helloWorld_2.png)
 
 2. Creating contracts
-![third](/pics/helloWorld3.png)
-![fourth](/pics/helloWorld4.png)
+![third](/pics/helloWorld_3.png)
+![fourth](/pics/helloWorld_4.png)
 
 3. Running them
-![fifth]![Second](/pics/helloWorld5.png)
+![fifth]![Second](/pics/helloWorld_5.png)
 
 4. Code that I changed to update to the latest compiler version
 ![sixth](/pics/test_1.png)
