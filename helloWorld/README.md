@@ -31,7 +31,7 @@ This goes from setting everything up to testing it
 1. Setting it up and checking my folder
 ![first](/pics/helloWorld_1.png)
 ![Second](/pics/helloWorld_2.png)
-
+<!--  -->
 2. Creating contracts
 ![third](/pics/helloWorld_3.png)
 ![fourth](/pics/helloWorld_4.png)
