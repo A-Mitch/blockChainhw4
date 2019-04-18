@@ -42,7 +42,7 @@ $ [path/to/root_directory] testrpc
 0x6260Ee188505D13b92ca32DB03dDee9DCCC29CDC
 ```
 ..* Place the instructor's address in getInstructor section and you will receive the following output
-![getInstructor output](/pics/struct_3.png)
+![getInstructor output](/pics/struct3.png)
 
 ..* Press the countInstructors section to count the number of instructors. Your output should look like the following:
 ![countInstructors output](/pics/struct4.png)
