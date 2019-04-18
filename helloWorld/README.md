@@ -14,7 +14,14 @@ This is a program based off AmazingAndy's Ethereum contract tutorial.
 > Check if you have Truffle and testrpc installed globally
 
 ### 🤔How to run
-1. Follow Andy's tutorial, but pay attention to my code because it is updated to the latest version
+1. Follow Andy's tutorial [one](https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119) and [two](https://medium.com/etherereum-salon/eth-testing-472c2f73b4c3), but pay attention to my code because it is updated to the latest version.
+
+2. You create a truffle project by doing the following
+
+```bash
+truffle init
+```
+This will create files for you and you can follow the commands in the tutorial to create the extra files needed.
 
 
 ## 📝 Homework outputs
@@ -43,6 +50,11 @@ truffle test
 ```
 and it will test it for you.
 
+Also run testrpc running in one terminal and have another open to actually test your functions.
+Go to your root directory and type in
+```bash
+testrpc
+```
 
 5. Running testrpc and the test failing and passing
 ![ninth](/pics/test_6.png)
